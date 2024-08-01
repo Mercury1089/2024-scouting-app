@@ -27,7 +27,7 @@ import androidx.fragment.app.Fragment;
 import com.mercury1089.scoutingapp2024.utils.GenUtils;
 
 public class Auton extends Fragment {
-    //HashMaps for sending QR data between screens test
+    //HashMaps for sending QR data between screens
     private LinkedHashMap<String, String> setupHashMap;
     private LinkedHashMap<String, String> autonHashMap;
 
